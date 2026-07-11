@@ -11,7 +11,7 @@ export default function Contact() {
       className="noise-overlay relative overflow-hidden bg-ink py-24 sm:py-32"
     >
       <div
-        className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(200,30,40,0.18),transparent_60%)]"
+        className="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(162,57,232,0.18),transparent_60%)]"
         aria-hidden
       />
 
@@ -31,7 +31,7 @@ export default function Contact() {
           <div className="flex flex-col gap-4 sm:flex-row">
             <a
               href={PHONE_TEL}
-              className="group inline-flex items-center justify-center gap-3 rounded-sm bg-blood-bright px-9 py-5 text-lg font-bold uppercase tracking-wider text-white shadow-[0_0_0_0_rgba(200,30,40,0.5)] transition hover:bg-blood hover:shadow-[0_0_30px_5px_rgba(200,30,40,0.35)]"
+              className="group inline-flex items-center justify-center gap-3 rounded-sm bg-blood-bright px-9 py-5 text-lg font-bold uppercase tracking-wider text-white shadow-[0_0_0_0_rgba(162,57,232,0.5)] transition hover:bg-blood hover:shadow-[0_0_30px_5px_rgba(162,57,232,0.35)]"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
