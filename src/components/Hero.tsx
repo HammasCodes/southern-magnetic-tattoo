@@ -5,7 +5,7 @@ export default function Hero() {
       className="noise-overlay relative flex min-h-[100svh] items-center overflow-hidden bg-ink pt-24"
     >
       <div
-        className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(200,30,40,0.22),transparent_55%),radial-gradient(ellipse_at_bottom_left,rgba(200,30,40,0.12),transparent_55%)]"
+        className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,rgba(162,57,232,0.22),transparent_55%),radial-gradient(ellipse_at_bottom_left,rgba(162,57,232,0.12),transparent_55%)]"
         aria-hidden
       />
 
@@ -35,7 +35,7 @@ export default function Hero() {
           <div className="mt-9 flex flex-col gap-4 sm:flex-row sm:items-center">
             <a
               href="#contact"
-              className="group inline-flex items-center justify-center gap-2 rounded-sm bg-blood-bright px-8 py-4 text-base font-bold uppercase tracking-wider text-white shadow-[0_0_0_0_rgba(200,30,40,0.5)] transition hover:bg-blood hover:shadow-[0_0_30px_5px_rgba(200,30,40,0.35)]"
+              className="group inline-flex items-center justify-center gap-2 rounded-sm bg-blood-bright px-8 py-4 text-base font-bold uppercase tracking-wider text-white shadow-[0_0_0_0_rgba(162,57,232,0.5)] transition hover:bg-blood hover:shadow-[0_0_30px_5px_rgba(162,57,232,0.35)]"
             >
               Book a Consultation
               <span className="transition-transform group-hover:translate-x-1">
@@ -75,7 +75,7 @@ export default function Hero() {
         </div>
 
         <div className="animate-in relative hidden aspect-[4/5] w-full max-w-md justify-self-end overflow-hidden rounded-sm border border-white/10 bg-charcoal shadow-2xl lg:block">
-          <div className="absolute inset-0 bg-[linear-gradient(160deg,rgba(200,30,40,0.28),rgba(10,10,10,0.95))]" />
+          <div className="absolute inset-0 bg-[linear-gradient(160deg,rgba(162,57,232,0.28),rgba(10,10,10,0.95))]" />
           <div className="absolute inset-0 flex flex-col justify-end p-8">
             <p className="text-display text-3xl leading-tight text-white">
               Custom Work.
